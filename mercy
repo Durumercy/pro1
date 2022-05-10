@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NXPH285L91"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-NXPH285L91');
+    </script>
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
+    <link rel="icon" type="image/png" href="assets/ukraine-flag-icon-16.png"/>
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Glory to Ukraine" />
+    <meta charset="UTF-8">
+    <title>No War | RED-CROSS</title>
+</head>
+<body>
+<div class="main">
+    <div class="content">
+        <div class="header">
+            <img class="main-logo" src="assets/REDLOGO2.png" alt="REDCROSS Logo">
+            <div class="selector">
+                <a class="select-option" href="index-2.html"><img src="assets/uk-flag.png" alt="EN"/></a>
+                <a class="select-option" href="index.ua.html"><img src="assets/ua-flag.png" alt="UA"/></a>
+                <a class="select-option" href="index.ru.html"><img src="assets/ru-flag.png" alt="RU"/></a>
+            </div>
+        </div>
+        <div class="flag">
+            <div class="main-outer">
+                <img class="herb" src="assets/herb-image.png" alt="HerbUA">
+                <div class="main-info">
+                    <span class="hashtag">#STANDWITHUKRAINE</span>
+                    <span id="title" class="title">Glory to Ukraine</span>
+                    <span class="desc">Charitable contributions are accepted to help Ukrainian refugees affected by the brutal war in Ukraine. We seek peace! Everyone's help is important.</span>
+                </div>
+            </div>
+        </div>
+        <span class="hint-mobile">The funds will be used to buy medicines and provide humanitarian aid to the (over 1,200,000) Ukrainian refugees in Poland,Romania and Moldova.</span>
+        <a class="a-button" href="https://saveukrainianrefugees.com/bitalpha/index.php">
+            <div class="link-button">
+                Make a donation
+            </div>
+        </a>
+        <div class="description">
+            <img src="assets/hint-icon.png" class="hint-icon-mobile"/>
+            <div class="hint">
+                <img src="assets/hint-icon.png" class="hint-icon"/>
+                The funds will be used to buy medicines and provide humanitarian aid to the (over 1,200,000) Ukrainian refugees in Poland,Romania and Moldova.
+            </div>
+            <span class="desc-text"><strong>Dear crypto community around the world!</strong></span>
+            <span class="desc-text">New digital order says NO to war! It’s hard to believe that in the XXI century we still have to ask for donations to stop the war. But it’s happening right now. Crypto is for people who respect their freedom, value peace, and if we can use the new financial technology for good purpose, let’s do it!</span>
+            <span class="desc-text">
+                 The Ukrainian Red Cross society and team created the ‘Glory to Ukraine’ cryptocurrency donation fund to help everyone who’s trapped inside the war. We work with reliable volunteer communities and launch a charity fund. We collect charitable funds to provide medicines, humanitarian assistance and to support the refugees of the country. Everyone can help to buy the essentials and tech tools, and also financially support the growing Ukrainian refugees and all the victims.
+                <br>
+                "Glory to Ukraine" accepts donations in BTC, USDT, ETH (the list of currencies available for donation will be extended soon).
+            </span>
+            <span class="desc-text">
+                You can also donate funds in fiat currencies to a special settlement account of the National Bank of Ukraine to raise funds for the needs of the army.
+                <br>
+                We ask all people who care to act now and help Ukraine in this difficult time!
+            </span>
+            <a href="https://saveukrainianrefugees.com/bitalpha/index.php" class="desc-text link-to-donate">Go to donations</a>
+            <span class="desc-text regards">
+                Sincerely,
+                <br>
+                Administration of Ukraine Red Cross Society.
+            </span>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>
